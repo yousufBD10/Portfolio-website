@@ -1,0 +1,117 @@
+.baba{
+    display: flex;
+    background-color: rgb(115, 255, 255);
+    box-shadow: 4px 5px 6px black;
+    font-family: 'Fredoka One', cursive;
+}
+.boro-vay{
+ 
+  
+  
+   
+}
+#mypic{
+    width: 600px;
+}
+.coto-vay{
+    width: 50%;
+   
+    margin: 20px;
+    padding: 15px;
+       
+}
+#son{
+    margin: 15px;
+    padding: 5px;
+    
+    background-color: rgb(26, 180, 190);
+}
+body{ 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-repeat: no-repeat;
+    font-size: 20px;
+    color: white;
+  
+    
+}
+ul{
+    display: inline-flex;
+   
+}
+li{
+    margin: 7px;
+    padding: 7px;
+    font-size: 18px;
+}
+.navbar{
+    background-color: black;
+}
+.NavBar{
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+
+}
+.btn{
+    padding: 10px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+}
+
+.big-dreams{
+    background-color: black;
+    display: flex;
+}
+.half-width{
+    text-align: center;
+    border: 2px solid rebeccapurple;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+    margin-top: 20px;
+    box-shadow: 9px 7px 10px white;
+}
+.hireme{
+    width: 100px;
+    padding: 15px;
+    background-color: red;
+    color: white;
+    border: 1px solid gray;
+      text-decoration: none;
+    border-radius: 5px;
+}
+.three{
+    display: flex;
+   margin: 10px;
+   padding: 5px;
+
+
+}
+.threee{
+    margin: 10px;
+    padding: 20px;
+    background-color: black;
+}
+.exp{
+    border: 1px solid white;
+    background-color: aqua;
+    color: black;
+    margin: 15px;
+    padding: 40px;
+    margin: 15px;
+    padding: 40px;
+    box-shadow: 2px 3px 20px rgb(211, 211, 211) ;
+    
+
+}
+.three :hover{
+    background-color: rgb(95, 255, 255);
+   
+    box-shadow: 5px 5px 30px rgb(211, 211, 211);
+}
